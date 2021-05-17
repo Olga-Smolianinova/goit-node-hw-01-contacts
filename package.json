@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga-Smolianinova/goit-node-hw-01-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olga-Smolianinova/goit-node-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/Olga-Smolianinova/goit-node-hw-01-contacts#readme",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
